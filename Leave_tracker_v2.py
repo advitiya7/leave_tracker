@@ -24,7 +24,7 @@ mapped_code_to_label = {
     "H": "Work From Home"
 }
 
-st.title("Dynamic Leave Tracker ➝ Formatted InSync Output")
+st.title("Insync Automater")
 
 leave_file = st.file_uploader("Upload Leave Tracker (.xlsx)", type=["xlsx"])
 
